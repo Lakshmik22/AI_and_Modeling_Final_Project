@@ -25,7 +25,7 @@ Dataset Requirements
 To execute the code in VS Code, ensure the following two files are present in the same directory as your script:
    •	movies.csv: Contains movieId and title.
    •	ratings.csv: Contains userId, movieId, and rating.
-Note: These are standard MovieLens dataset files. They can be downloaded from https://www.kaggle.com/datasets/mexwell/fakereviews-dataset/data
+Note: These are standard MovieLens dataset files. They can be downloaded from https://grouplens.org/datasets/movielens/latest/
 
 How to Run
    1.	Open the project folder in VS Code.
